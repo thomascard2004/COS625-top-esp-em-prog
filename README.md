@@ -10,9 +10,7 @@ Este espaço concentra o código-fonte e a documentação das atividades desenvo
 
 As principais linguagens e tecnologias exploradas nos projetos deste repositório incluem:
 
-* **Linguagens:** Python, [Inserir outras, se houver]
-* **Frameworks & Bibliotecas:** LangChain, LangGraph, [Inserir outras]
-* **Infraestrutura & DevOps:** Docker, GitLab CI/CD
+* **Linguagens:** C++
 
 ## 📂 Estrutura de Diretórios
 
